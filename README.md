@@ -1,13 +1,13 @@
-# Caleb Preece-Oughton
+# cpo
 
 **Software Engineering Undergraduate**
 Focus: Windows Internals, Kernel Development, Reverse Engineering.
 
 ---
 
-### Projects
+### Projects - Please contact me for access to private projects
 
-**[Kernel Process Management Engine](https://github.com/1vrx/vrxAim)**
+**[Kernel Process Management Engine](https://github.com/1vrx/kernel-proc-manager)**
 *Windows Kernel-Mode Driver (C++)*  
 A WDK driver implementing undocumented process management techniques.
 * **Core Functionality:** Direct Kernel Object Manipulation (DKOM) of `EPROCESS` and `KTHREAD` structures.
